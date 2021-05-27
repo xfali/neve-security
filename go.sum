@@ -1,0 +1,6 @@
+github.com/go-logr/logr v0.2.0/go.mod h1:z6/tIYblkpsD+a4lm/fGIIU9mZ+XfAiaFtq7xTgseGU=
+github.com/xfali/neve-utils v0.0.1 h1:S+NfOFYeqILzCylAvd9OI00JqXW1meNPScb9JIDZBaQ=
+github.com/xfali/neve-utils v0.0.1/go.mod h1:qwnnleG/95zSAnGPi0zWk+eeeP0bUUckkqFKa3YWvMU=
+github.com/xfali/xlog v0.1.1/go.mod h1:W9nEm+z16pEh1HAOW9m/GuVk1h9FE29jv1byivczWcw=
+github.com/xfali/xlog v0.1.5 h1:32pFwECB/sYUUhqgQ4q2IChgIz8IXlO0HU5/KMli5Ys=
+github.com/xfali/xlog v0.1.5/go.mod h1:W9nEm+z16pEh1HAOW9m/GuVk1h9FE29jv1byivczWcw=
